@@ -7,4 +7,8 @@ const b = ()=>{
 }
 const c = ()=>{
     console.log("Goodbye, seminary!");
+
+}
+const d = ()=>{
+    alert("Goodbye, World!");
 }
