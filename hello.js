@@ -19,4 +19,6 @@ const e = ()=>{
 const f = ()=>{
     alert("f");
 }
-
+const g = ()=>{
+    alert("g");
+}
