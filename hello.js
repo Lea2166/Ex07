@@ -12,3 +12,7 @@ const c = ()=>{
 const d = ()=>{
     alert("Goodbye, World!");
 }
+const hhh = ()=>{
+    alert("42");
+    return 42;
+}   
