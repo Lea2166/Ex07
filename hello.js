@@ -11,6 +11,16 @@ const c = ()=>{
 }
 const d = ()=>{
     alert("Goodbye, World!");
+
+}
+const e = ()=>{
+    alert("e");
+}
+const f = ()=>{
+    alert("f");
+}
+const g = ()=>{
+    alert("g");
 }
 const hhh = ()=>{
     alert("42");
